@@ -117,5 +117,5 @@ View a full blog post, with translation options, comments, and like functionalit
 ---
 
 ### 📚 Reading List Feature  
-![Reading List](screenshots/readingList.png)  
+![Reading List](screenshots/readingList.PNG)  
 Users can save posts to their personal reading list for quick access and offline reference.

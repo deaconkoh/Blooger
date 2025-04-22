@@ -66,52 +66,52 @@ Blooger is styled using **Bootstrap 5**, ensuring a responsive and consistent in
 ---
 
 ### 🏠 Home Page  
-![Home Page](screenshots/home.png)  
+![Home Page](screenshots/home.PNG)  
 Welcome screen with navigation options for registration, login, and exploring public posts.
 
 ---
 
 ### 📖 About Us Page  
-![About Us Page](screenshots/about.png)  
+![About Us Page](screenshots/about.PNG)  
 Overview of the platform’s mission and functionality, introducing users to the purpose of Blooger.
 
 ---
 
 ### 🔐 Logged-In Dashboard  
-![Logged In Landing Page](screenshots/loggedIn.png)  
+![Logged In Landing Page](screenshots/loggedIn.PNG)  
 Main landing page for logged-in users, featuring quick access to the feed, post creation, and notifications.
 
 ---
 
 ### 👤 User Profile Page  
-![Profile Page](screenshots/profile.png)  
+![Profile Page](screenshots/profile.PNG)  
 View and edit profile information including display picture, bio, and user stats like followers and following.
 
 ---
 
 ### 👥 Follower & Following System  
-![Follower System](screenshots/followers.png)  
+![Follower System](screenshots/followers.PNG)  
 Users can follow others, build their own social feed, and view mutual connections.
 
 ---
 
 ### 🛠️ Admin Dashboard  
-![Admin Dashboard](screenshots/adminBoard.png)  
+![Admin Dashboard](screenshots/adminBoard.PNG)  
 Admin panel with options to moderate content, manage users, and view platform statistics.
 
-![User Control Panel](screenshots/UserControl.png)  
+![User Control Panel](screenshots/UserControl.PNG)  
 Detailed controls for administrators to deactivate users, reset passwords, or review reported content.
 
 ---
 
 ### 💳 Payment Integration Page  
-![Payment Page](screenshots/loggedIn.png)  
+![Payment Page](screenshots/loggedIn.PNG)  
 Prototype interface for handling in-app payments, subscriptions, or donation support.
 
 ---
 
 ### 📝 Post Detail View  
-![Post Detail Page](screenshots/post.png)  
+![Post Detail Page](screenshots/post.PNG)  
 View a full blog post, with translation options, comments, and like functionality.
 
 ---
